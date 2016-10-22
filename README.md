@@ -6,7 +6,7 @@ A growing list of high-quality systemtap resources and fantastic systemtap colle
 * [Tutorial](#tutorial)
 * [Blog](#blog)
 * [Use case](#use-case)
-* [Collection](#collections)
+* [Collections](#collections)
 
 ## Homepage
 
@@ -16,6 +16,7 @@ A growing list of high-quality systemtap resources and fantastic systemtap colle
 
 * [SystemTap Beginners Guide](https://sourceware.org/systemtap/SystemTap_Beginners_Guide/)
 * [Dynamic Tracing with DTrace & SystemTap](http://myaut.github.io/dtrace-stap-book/index.html)
+* [SystemTap Cheat Sheet](https://github.com/calio/systemtap-cheat-sheet)
 
 ## Blog
 
@@ -66,4 +67,6 @@ A growing list of high-quality systemtap resources and fantastic systemtap colle
 
 * [official example](https://sourceware.org/systemtap/examples/)
 * [tcpdive - A TCP performance profiling tool](https://github.com/fastos/tcpdive)
+* [SystemTap Lightweight Tools](https://github.com/brendangregg/systemtap-lwtools)
+* [Linux Tracing Scripts for Oracle](https://github.com/LucaCanali/Linux_tracing_scripts)
 
