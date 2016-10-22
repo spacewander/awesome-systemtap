@@ -14,13 +14,13 @@ A growing list of high-quality systemtap resources and fantastic systemtap colle
 
 ## Tutorial
 
-[SystemTap Beginners Guide](https://sourceware.org/systemtap/SystemTap_Beginners_Guide/)
-﻿[Dynamic Tracing with DTrace & SystemTap](http://myaut.github.io/dtrace-stap-book/index.html)
-﻿
+* [SystemTap Beginners Guide](https://sourceware.org/systemtap/SystemTap_Beginners_Guide/)
+* [Dynamic Tracing with DTrace & SystemTap](http://myaut.github.io/dtrace-stap-book/index.html)
+
 ## Blog
 
-[Choosing a Linux Tracer](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
-[The story of one latency spike](https://http2.cloudflare.com/the-story-of-one-latency-spike/)
+* [Choosing a Linux Tracer](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
+* [The story of one latency spike](https://http2.cloudflare.com/the-story-of-one-latency-spike/)
 
 ## Use case
 
